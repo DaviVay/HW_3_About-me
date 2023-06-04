@@ -11,4 +11,4 @@
 
 Поиском возможных ошибок в предыдущем домашнем задании я и планирую заняться на следующей неделе.
 
-!(https://disk.yandex.ru/i/RocFF73xpcMLSQ)
+![](https://github.com/DaviVay/HW_3_About-me/blob/main/IMG_5981.JPG)
