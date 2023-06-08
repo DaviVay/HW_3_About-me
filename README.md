@@ -10,6 +10,9 @@
 3. GIT - прост. Как ни странно, первые два пункта делают GIT замечательным инструментом, и если ты что-то делаешь неправильно, то это очень быстро становится очевидным. И ошибку можно исправить. 
 
 ![](https://github.com/DaviVay/HW_3_About-me/blob/main/img5981.jpg)
-![](https://vk.com/id35837333?z=photo35837333_457241212%2Falbum35837333_0%2Frev)
+
+
+![](https://github.com/DaviVay/HW_3_About-me/blob/main/img5981.jpg)
+
 
 
