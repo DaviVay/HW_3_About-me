@@ -9,10 +9,7 @@
 2. GIT строг к ошибкам
 3. GIT - прост. Как ни странно, первые два пункта делают GIT замечательным инструментом, и если ты что-то делаешь неправильно, то это очень быстро становится очевидным. И ошибку можно исправить. 
 
-![](https://github.com/DaviVay/HW_3_About-me/blob/main/img5981.jpg)
-
-
-![](https://github.com/DaviVay/HW_3_About-me/blob/main/img5981.jpg)
+![](https://github.com/DaviVay/HW_3_About-me/blob/main/img/img_5981.png)
 
 
 
